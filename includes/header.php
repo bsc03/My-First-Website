@@ -15,7 +15,7 @@
     </div>
     <div class="link-side">
     <a href="./index.php">Home</a>
-    <a href="">About us</a>
+    <a href="about.php">About us</a>
     <a href="">Services</a>
     <a href="">Contact Us</a>
     </div>
