@@ -6,10 +6,11 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(hero-bg.jpg);
+    background-image: url(/hero-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     transition: 1s;
+  
 }
 .about{
     text-align: center;
@@ -21,10 +22,9 @@ body{
 .containerb{
     box-shadow: 1px 30px 40px 10px rgb(58, 53, 53);
     padding: 15px 50px 10px 55px;
-   
     color:rgb(172, 168, 168);
     font-size: 17px;
-    transition: 2s;
+    transition: 3s;
   
 }
 .para{
@@ -42,6 +42,8 @@ body{
     justify-content: space-between;
     color: #fafafa;
     top: 0;
+    font-family: 'Roboto', sans-serif;
+    
    
 }
 .header .link-side a{
@@ -55,7 +57,13 @@ body{
 
 @media screen and (max-width:600px){
     body{
-        background-position: center;
+       
+       background-position: 100em;
+       
+    }
+    body .containerb{
+        background-color: black;
+        
     }
     .containerb{
 
