@@ -5,15 +5,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    
     <link rel="stylesheet" href="about.css">
-    <link rel="stylesheet" href="./includes/css/app.css">
+    
+  
 
 
 </head>
 <body>
   
-<div class="container1" style="background: black;background-size:cover">
+<div class="containera">
 
 <div class="header">
   <div class="logo-side">
@@ -28,7 +28,7 @@
 </div></div>
 
   
-    <div class="container" style="color:rgb(172, 168, 168);">
+    <div class="containerb">
       <h2 class="about">ABOUT US</h2>
   <h2 class="para">OUR MISSION</h2>
   <p>Welcome to gorup03-restauarant where passion meets flavor, and every dish tells a story!<br>
@@ -46,7 +46,7 @@
       We believe that good food has the power to bring people together,
        and we're honored to be a part of your shared moments.</p>
 
-    <h2 class="para">OUR TEAM</h2>
+    <h2 class="para">OUR TEAM</h2><div style="font-size: 17px; color:rgb(190, 188, 188);">
     <p>
       Behind every delectable dish at group03-restaurant is a team of passionate individuals dedicated to the art of culinary excellence. Allow us to introduce you to the talented minds and skilled hands that bring our food dreams to life.
       
@@ -57,9 +57,9 @@
 
     The Heart of group03-restaurant:<br>
 
-    <b style="font-size: 17px; color:cadetblue">At the heart of our team is a shared love for food, a dedication to quality, and a commitment to creating a welcoming environment for our guests. We believe that the passion of our team is what sets us apart, and we take pride in fostering a collaborative and creative workplace where every member contributes to the magic of group03-restaurant .
+    At the heart of our team is a shared love for food, a dedication to quality, and a commitment to creating a welcoming environment for our guests. We believe that the passion of our team is what sets us apart, and we take pride in fostering a collaborative and creative workplace where every member contributes to the magic of group03-restaurant .
 
-Together, we are not just a team –we are a culinary family on a mission to make every meal an experience to savor. Thank you for being a part of our journey, and we look forward to sharing our love for food with you at group03-restaurant .</b>
+Together, we are not just a team –we are a culinary family on a mission to make every meal an experience to savor. Thank you for being a part of our journey, and we look forward to sharing our love for food with you at group03-restaurant .</div>
 
 
 
