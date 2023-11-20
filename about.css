@@ -6,10 +6,10 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(/hero-bg.jpg);
+    background-image: url(hero-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    transition: 1s;
+    transition: 1.5s;
   
 }
 .about{
@@ -24,7 +24,7 @@ body{
     padding: 15px 50px 10px 55px;
     color:rgb(172, 168, 168);
     font-size: 17px;
-    transition: 3s;
+    transition: 2s;
   
 }
 .para{
@@ -56,15 +56,15 @@ body{
 
 
 @media screen and (max-width:600px){
-    body{
-       
-       background-position: 100em;
-       
-    }
-    body .containerb{
-        background-color: black;
-        
-    }
+   body{
+    background-position: 100em;
+   }
+   body .containerb{
+background-image: url(hero-bg.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+   }
     .containerb{
 
         color:cadetblue;
