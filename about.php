@@ -1,18 +1,7 @@
 
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="about.css">
-
-
-</head>
-<body>
+<?php require_once __DIR__ . '/includes/header.php' ?>
   
-    <div class="container">
+    <div class="container-fluid">
       <h2 class="about">ABOUT US</h2>
   <h2 class="para">OUR MISSION</h2>
   <p>Welcome to gorup03-restauarant where passion meets flavor, and every dish tells a story!<br>
@@ -53,6 +42,5 @@ Together, we are not just a team – we are a culinary family on a mission to ma
     </p>
 </div>
 
-
-</body>
-</html>
+<?php require_once __DIR__ . '/includes/footer.php' ?>
+  
