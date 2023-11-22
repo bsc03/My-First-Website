@@ -22,16 +22,18 @@ a{
 }
 .header{
     background-color: #3341559d;
-    padding: 20px;
+    /* padding: 20px; */
     display: flex;
     justify-content: space-between;
     color: #fafafa;
+    align-items: center;
+    padding: 4px;
 }
 .header .link-side a{
     display: inline-flex;
     text-decoration: none;
     color: white;
-    padding: 5px;
+    padding: 15px;
 }
 .wrapper{
     /* display: flex; */
@@ -136,6 +138,13 @@ a{
 }
 .fa-bars{
     display: none;
+}
+.font-icon{
+    font-size: 16px;
+}
+.nav-bar a:hover{
+    background-color: #1d253b;
+    
 }
 
 
@@ -262,14 +271,22 @@ a{
         justify-content: space-around;
         color: #fafafa;
     }
+    .responsive{
+        position: relative;
+        border-top: 1px solid #1d253b;
+        width: 100%;
+        margin-top: 10px;
+    }
+   
     .responsive a{
+        display: block;
+        float: none;
+        text-align: left;
         color: white;
-        background-color: #eab308;
-        display: flex;
-        margin: auto;
-        padding: 10px;
-        flex-direction: column;
-        place-content: center;
+        line-height: 40px;
+    }
+    .responsive a:hover{
+        background-color: #1d253b;
     }
     .wrapper{
         /* display: flex; */
