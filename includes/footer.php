@@ -4,9 +4,9 @@
     <div class="left">
         <h2>Contact Us</h2>
         <ul>
-          <li>Mbeya, Tanzania</li>
-          <li>Call +255 6766554</li>
-          <li>group03@gmail.com</li>
+          <li><i class="fa fa-location"></i> &nbsp;Mbeya, Tanzania</li>
+          <li><i class="fa-solid fa-phone"></i>&nbsp;Call +255 6766554</li>
+          <li><i class="fa-solid fa-envelope"></i>&nbsp;group03@gmail.com</li>
         </ul>
     </div>
     <!--  -->
@@ -14,9 +14,9 @@
       <h2>Group03</h2>
       <p>Necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with</p>
       <ul>
-        <li>Facebook</li>
-        <li>Instagram</li>
-        <li>X/twitter</li>
+        <li><i class="fa fa-facebook"></i>&nbsp;&nbsp;Facebook</li>
+        <li><i class="fa fa-instagram"></i>&nbsp;&nbsp;Instagram</li>
+        <li><i class="fa fa-x"></i>&nbsp;&nbsp;X/twitter</li>
       </ul>
     </div>
     <!--  -->

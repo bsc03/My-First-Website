@@ -19,17 +19,16 @@
 
   <div class="header">
     <div class="logo-side">
-    <p>LOGO</p>
+    <p>NUMBER 03</p>
     <a href="javascript:void(0)" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
     </div>
-    <div class="link-side nav-bar" id="myNavBar">
-    <a href="./index.php">Home</a>
-    <a href="./about.php">About us</a>
-    <a href="">Services</a>
-    <a href="">Contact Us</a>
+    <div class="link-side nav-bar " id="myNavBar">
+   <a href="./index.php"> <i class="fa-solid fa-house font-icon"></i>&nbsp;&nbsp;Home</a>
+    <a href="./about.php"><i class="fa-regular fa-address-card font-icon "></i>&nbsp;&nbsp;About us</a>
+    <a href=""><i class="fa-solid fa-utensils font-icon"></i>&nbsp;&nbsp;Services</a>
+    <a href=""><i class="fa-solid fa-phone-volume font-icon"></i>&nbsp;&nbsp;Contact Us</a>
     </div>
-
 
     </a>
   </div>
