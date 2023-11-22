@@ -57,7 +57,7 @@ body{
 
 @media screen and (max-width:600px){
    body{
-    background-position: 100em;
+    background-position:center;
    }
    body .containerb{
 background-image: url(hero-bg.jpg);

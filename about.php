@@ -31,7 +31,7 @@
     <div class="containerb">
       <h2 class="about">ABOUT US</h2>
   <h2 class="para">OUR MISSION</h2>
-  <p>Welcome to gorup03-restauarant where passion meets flavor, and every dish tells a story!<br>
+  <p>Welcome to group03-restauarant where passion meets flavor, and every dish tells a story!<br>
 
     At group03-restaurant, we believe in the magic of good food.
      Our journey began with a simple yet profound idea:
