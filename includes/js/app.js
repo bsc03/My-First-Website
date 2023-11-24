@@ -6,4 +6,5 @@ function myFunction(){
     }else{
         nav.className = 'nav-bar';
     }
+    
 }
