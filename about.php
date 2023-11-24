@@ -42,5 +42,6 @@ Together, we are not just a team – we are a culinary family on a mission to ma
     </p>
 </div>
 
+
 <?php require_once __DIR__ . '/includes/footer.php' ?>
   
