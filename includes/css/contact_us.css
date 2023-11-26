@@ -1,0 +1,25 @@
+.contact-form{
+    display: flex;
+    justify-content: space-around;
+}
+.flex-left, .flex-right{
+    width: 40%;
+    padding: 20px;
+}
+.form-group{
+    width: 100%;
+    padding: 10px;
+    color: white;
+}
+
+.form-group input, textarea{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+.flex-right{
+    margin-right: 40px;
+    color: white;
+}
