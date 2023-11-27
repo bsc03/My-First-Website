@@ -27,9 +27,8 @@
         </form>
     </div>
     <div class="flex-right">
-        Map and location
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15924.970888986369!2d37.6034918!3d-3.7572587!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1838153fa0b4e491%3A0x9c779b9bf47a7d9f!2sClassNinjaTz!5e0!3m2!1sen!2stz!4v1701027883062!5m2!1sen!2stz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
+        <!-- Map and location -->
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15924.970888986369!2d37.6034918!3d-3.7572587!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1838153fa0b4e491%3A0x9c779b9bf47a7d9f!2sClassNinjaTz!5e0!3m2!1sen!2stz!4v1701090793365!5m2!1sen!2stz" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>    </div>
 </div>
 
 <?php require_once __DIR__ . '/includes/footer.php' ?>
