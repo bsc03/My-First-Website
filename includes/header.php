@@ -22,9 +22,9 @@
 
   <div class="header">
     <div class="logo-side">
-    <p>NUMBER 03</p>
-    <a href="javascript:void(0)" class="icon" onclick="myFunction()">
-    <i class="fa fa-bars"></i>
+    <div class="nav-logo"><p>NUMBER 03</p></div>
+    <div class="nav-icon"><a href="javascript:void(0)" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i></a></div>
     </div>
     <div class="link-side nav-bar " id="myNavBar">
    <a href="./index.php"> <i class="fa-solid fa-house font-icon"></i>&nbsp;&nbsp;Home</a>

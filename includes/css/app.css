@@ -154,6 +154,7 @@ a{
         height: auto;
         padding-bottom: 20px;
     }
+    
     .card-container{
         /* margin-top: 20px; */
         width: 100%;
@@ -187,6 +188,12 @@ a{
         align-items: center;
         padding: 10px;
     
+    }
+    .logo-side{
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        
     }
     .card{
         background-color: antiquewhite;
@@ -239,7 +246,7 @@ a{
         display: block;
         position: absolute;
         height: 100%;
-        width: 50%;
+        width:100%;
     }
     .nav-bar .responsive .icon{
         position: absolute;
@@ -247,10 +254,7 @@ a{
         top: 0px;
 
     }
-    .logo-side{
-        display: flex;
-        justify-content: space-between;
-    }
+   
      .responsive a{
         float: none;
         display: block;
@@ -261,7 +265,7 @@ a{
         padding: 20px;
         display: flex;
         flex-direction: column;
-        justify-content: space-around;
+        justify-content: space-between;
         color: #fafafa;
     }
     .responsive{
