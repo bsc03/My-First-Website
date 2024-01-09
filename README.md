@@ -21,6 +21,14 @@
         07 : MONICA JUMANNE LWINGA
         08 : ERASTO APOLNARY
         09 : JAFARI ATHUMANI HAMISI
+    <br>
+        NOTE: our project now is using Bootstrap <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">https://getbootstrap.com/docs/5.3/getting-started/introduction/</a>
+        <ul>
+  <li>use customize bootstrap.css file to customize your bootstrap class.</li>
+  
+</ul>
+
+        
 
 </body>
 </html>

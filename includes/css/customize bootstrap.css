@@ -1,0 +1,37 @@
+.navbar-toggler{
+    color: white;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.fa-bars{
+    color: white;
+    font-size: 25px;
+}
+
+.btn {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.card-customize{
+    background-image: url('../../image/site-img/img-1.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
+
+
+.fa-facebook {
+    color: #3b82f6;
+}
+.fa-instagram{
+    color: #9d174d;
+}
+.fa-x{
+    color: #172554;
+}
+form-control:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}

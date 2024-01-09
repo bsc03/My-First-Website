@@ -1,12 +1,12 @@
 
 <?php require_once __DIR__ . '/includes/header.php' ?>
   
-    <div class="container-fluid">
+    <div class="container p-4 mt-4">
       <h2 class="about">ABOUT US</h2>
-  <h2 class="para">OUR MISSION</h2>
+  <h4 class="text-primary">OUR MISSION</h4>
   <p>Welcome to gorup03-restauarant where passion meets flavor, and every dish tells a story!<br>
 
-    At group03-restaurant, we believe in the magic of good food.
+    At Msosi-restaurant, we believe in the magic of good food.
      Our journey began with a simple yet profound idea:
       to create a space where people could indulge in the joy of delicious,
        handcrafted meals that not only satisfy the taste buds but also nourish the soul. 
@@ -19,7 +19,7 @@
       We believe that good food has the power to bring people together,
        and we're honored to be a part of your shared moments.</p>
 
-    <h2 class="para">OUR TEAM</h2>
+    <h2 class="text-primary">OUR TEAM</h2>
     <p>
       Behind every delectable dish at group03-restaurant is a team of passionate individuals dedicated to the art of culinary excellence. Allow us to introduce you to the talented minds and skilled hands that bring our food dreams to life.
       

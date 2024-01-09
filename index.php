@@ -2,80 +2,188 @@
 
 <?php require_once __DIR__ . '/includes/header.php'  ?>
 
-<div class="wrapper">
-  <h3>Fast Food Restaurant</h3>
-  <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis soluta sed odit laboriosam exercitationem cupiditate ab eius, ratione aspernatur at dolorem fugit a sunt optio neque libero qui cumque ipsam.</p>
 
-  <button class="btn-primary">Order Food</button>
-</div>
-  <div class="card-container">
-    <!-- card 01 -->
-    <div class="card">
-     <div class="card-img">
-     <img src="./image/img-1.jpg" width="100%" height="100%" alt="">
-     </div>
-     <div class="card-wrap">
-    <div class="wrap-card-left">
-    <h4>Delicious Pasta</h4>
-      <p> Price: <span class="text-light">Tsh 5000</span></p>
-    </div>
 
-    <div class="wrap-card-right">
-      <button class="btn-primary">Order</button>
-    </div>
-    </div>
-    </div>
+<div class="container-fluid mt-2">
 
-    <!-- card 02 -->
-    <div class="card">
-     <div class="card-img">
-     <img src="./image/pizza.jpg" width="100%" height="100%" alt="">
-     </div>
-     <div class="card-wrap">
-    <div class="wrap-card-left">
-    <h4>Delicious Pizza</h4>
-      <p> Price: <span class="text-light">Tsh 5000</span></p>
-    </div>
-
-    <div class="wrap-card-right">
-      <button class="btn-primary">Order</button>
-    </div>
-    </div>
-    </div>
-
-    <!-- card 03 -->
-    <div class="card">
-     <div class="card-img">
-     <img src="./image/menu-burger.jpg" width="100%" height="100%" alt="">
-     </div>
-    <div class="card-wrap">
-    <div class="wrap-card-left">
-    <h4>Delicious Burger</h4>
-      <p> Price: <span class="text-light">Tsh 5000</span></p>
-    </div>
-
-    <div class="wrap-card-right">
-      <button class="btn-primary">Order</button>
-    </div>
-    </div>
-    </div>
-    <!-- end of cards -->
+<div class="card text-bg-dark card-customize">
+  <div class="card-body">
+    <p style="font-size: 3.5rem;" class="card-title text-light">Breakfast</p>
+    <p style="font-size: 3.5rem;" class="card-text text-warning">Simple Vegan <br> Breakfast <br> Recipes</p>
+    <p class="card-text text-light">Quick and easy meal ideas for vegans on the go</p>
+     <a href="" class="btn btn-warning">Order Now</a>
   </div>
-
-<!-- end of the container -->
 </div>
 
+</div>
 
-<div class="section-two">
-  <div class="left-selection">
-    <img src="./image/f8.png" width="100%" height="100%" alt="">
+<div class="container-fluid mt-2">
+<div class="container d-flex justify-content-between ">
+ <div class=""> <h3>Popular</h3> </div>
+  <div class=" float-right"><a href="" class="btn btn-secondary">View All</a></div>
+</div>
+<div class="row">
+  <div class="col-sm-12 col-md-4 col-lg-4 d-flex align-items-stretch">
+  <div class="card">
+  <img class="card-img-top" src="./image/site-img/dish-1.jpg" alt="Card image cap">
+  <div class="card-body">
+    <h4 class="text-danger">Zucchini slice spanakopita</h4>
+    <p class="card-text">Everyone's favourite savoury slice meets traditional Greek spinach pie in this easy vegetarian mash-up, which is perfect for lunch or dinner.</p>
+    <div class="order">
+    <a href="" class="btn btn-warning">Order Now</a>
+    </div>
   </div>
-  <div class="right-selection">
-    <h2>We Are Group03</h2>
-    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All</p>
-    <button class="btn-primary">
-      Read More
-    </button>
+</div>
+  </div>
+
+  <div class="col-sm-12 col-md-4 col-lg-4 d-flex align-items-stretch">
+  <div class="card">
+  <img class="card-img-top" src="./image/site-img/dish-2.jpg" alt="Card image cap">
+  <div class="card-body">
+  <h4 class="text-danger">Creamy borlotti bean and pasta soup</h4>
+    <p class="card-text">Serve this tasty tomato soup with crusty bread for the ultimate winter warmer.</p>
+    <div class="order">
+    <a href="" class="btn btn-warning">Order Now</a>
+    </div>
+  </div>
+</div>
+    </div>
+
+    <div class="col-sm-12 col-md-4 col-lg-4 d-flex align-items-stretch">
+  <div class="card">
+  <img class="card-img-top" src="./image/site-img/dish-3.jpg" alt="Card image cap">
+  <div class="card-body">
+  <h4 class="text-danger">Cherry tomato and ricotta pasta bake</h4>
+    <p class="card-text">With a golden cheesy crust, this easy pasta bake will be a new go-to family meal.</p>
+    <div class="order">
+    <a href="" class="btn btn-warning">Order Now</a>
+    </div>
+  </div>
+</div>
+    </div>
+
+
+  </div>
+</div>
+</div>
+
+<div class="container-fluid mt-2 p-4 bg-light">
+<div class="container d-flex justify-content-between ">
+ <div class=""> <h3>Our Food</h3> </div>
+  <div class=" float-right"><a href="" class="btn btn-secondary">View All</a></div>
+</div>
+  <div class="row">
+    <div class="col-sm-12 col-md-8 col-lg-8">
+      <div class="row">
+      <div class="col-sm-12 col-md-4 col-lg-4 d-flex align-items-stretch">
+  <div class="card">
+  <img class="card-img-top" src="./image/site-img/dish-1.jpg" alt="Card image cap">
+  <div class="card-body">
+    <h4 class="text-danger">Zucchini slice spanakopita</h4>
+    <p class="card-text">Everyone's favourite savoury slice meets traditional Greek spinach pie in this easy vegetarian mash-up, which is perfect for lunch or dinner.</p>
+    <div class="order">
+    <a href="" class="btn btn-warning">Order Now</a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  <div class="col-sm-12 col-md-4 col-lg-4 d-flex align-items-stretch">
+  <div class="card">
+  <img class="card-img-top" src="./image/site-img/dish-2.jpg" alt="Card image cap">
+  <div class="card-body">
+  <h4 class="text-danger">Creamy borlotti bean and pasta soup</h4>
+    <p class="card-text">Serve this tasty tomato soup with crusty bread for the ultimate winter warmer.</p>
+    <div class="order">
+    <a href="" class="btn btn-warning">Order Now</a>
+    </div>
+  </div>
+</div>
+    </div>
+    <div class="col-sm-12 col-md-4 col-lg-4 d-flex align-items-stretch">
+  <div class="card">
+  <img class="card-img-top" src="./image/site-img/dish-2.jpg" alt="Card image cap">
+  <div class="card-body">
+  <h4 class="text-danger">Creamy borlotti bean and pasta soup</h4>
+    <p class="card-text">Serve this tasty tomato soup with crusty bread for the ultimate winter warmer.</p>
+    <div class="order">
+    <a href="" class="btn btn-warning">Order Now</a>
+    </div>
+  </div>
+</div>
+    </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-4 col-lg-4">
+  <div class="card">
+  <img class="card-img-top" src="./image/site-img/dish-2.jpg" alt="Card image cap">
+  <div class="card-body">
+  <h4 class="text-danger">Creamy borlotti bean and pasta soup</h4>
+    <p class="card-text">Serve this tasty tomato soup with crusty bread for the ultimate winter warmer.</p>
+    <div class="order">
+    <a href="" class="btn btn-warning">Order Now</a>
+    </div>
+</div>
+    </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid mt-2 p-4 bg-light">
+  <div class="row">
+    <div class="col-sm-12 col-md-8 col-lg-8">
+      <div class="row">
+      <div class="col-sm-12 col-md-4 col-lg-4 d-flex align-items-stretch">
+  <div class="card">
+  <img class="card-img-top" src="./image/site-img/dish-1.jpg" alt="Card image cap">
+  <div class="card-body">
+    <h4 class="text-danger">Zucchini slice spanakopita</h4>
+    <p class="card-text">Everyone's favourite savoury slice meets traditional Greek spinach pie in this easy vegetarian mash-up, which is perfect for lunch or dinner.</p>
+    <div class="order">
+    <a href="" class="btn btn-warning">Order Now</a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  <div class="col-sm-12 col-md-4 col-lg-4 d-flex align-items-stretch">
+  <div class="card">
+  <img class="card-img-top" src="./image/site-img/dish-2.jpg" alt="Card image cap">
+  <div class="card-body">
+  <h4 class="text-danger">Creamy borlotti bean and pasta soup</h4>
+    <p class="card-text">Serve this tasty tomato soup with crusty bread for the ultimate winter warmer.</p>
+    <div class="order">
+    <a href="" class="btn btn-warning">Order Now</a>
+    </div>
+  </div>
+</div>
+    </div>
+    <div class="col-sm-12 col-md-4 col-lg-4 d-flex align-items-stretch">
+  <div class="card">
+  <img class="card-img-top" src="./image/site-img/dish-2.jpg" alt="Card image cap">
+  <div class="card-body">
+  <h4 class="text-danger">Creamy borlotti bean and pasta soup</h4>
+    <p class="card-text">Serve this tasty tomato soup with crusty bread for the ultimate winter warmer.</p>
+    <div class="order">
+    <a href="" class="btn btn-warning">Order Now</a>
+    </div>
+  </div>
+</div>
+    </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-4 col-lg-4">
+  <div class="card">
+  <img class="card-img-top" src="./image/site-img/dish-2.jpg" alt="Card image cap">
+  <div class="card-body">
+  <h4 class="text-danger">Creamy borlotti bean and pasta soup</h4>
+    <p class="card-text">Serve this tasty tomato soup with crusty bread for the ultimate winter warmer.</p>
+    <div class="order">
+    <a href="" class="btn btn-warning">Order Now</a>
+    </div>
+</div>
+    </div>
+    </div>
   </div>
 </div>
 
