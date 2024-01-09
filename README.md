@@ -22,7 +22,7 @@
         08 : ERASTO APOLNARY
         09 : JAFARI ATHUMANI HAMISI
 
-        <h1>OUR project use Bootsrap so use Bootstrap class to style your HTML elements but also your can use <a>customize bootstrap.css</a> to customize bootstrap class </h1>
+        <h1>OUR project use Bootsrap so use Bootstrap class to style your HTML elements but also your can use <a href="https://github.com/bsc03/My-First-Website/blob/main/includes/css/customize%20bootstrap.css">customize bootstrap.css</a> to customize bootstrap class </h1>
 
 
 </body>
