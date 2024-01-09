@@ -9,7 +9,8 @@
     <h1>COURSE NAME: COMPUTER SCIENCE</h1>
     <h1>LEVEL: SECOND YEAR</h1>
     <h1>MODULE CODE: CS 8207</h1>
-
+    <h1>OUR project use Bootsrap so use Bootstrap 
+        class to style your HTML element.  </h1>
   
      GROUP MEMBERS
         01 : PETER SATRUMIN UTOU
@@ -22,7 +23,7 @@
         08 : ERASTO APOLNARY
         09 : JAFARI ATHUMANI HAMISI
 
-        <h1>OUR project use Bootsrap so use Bootstrap class to style your HTML elements but also your can use <a href="https://github.com/bsc03/My-First-Website/blob/main/includes/css/customize%20bootstrap.css">customize bootstrap.css</a> to customize bootstrap class </h1>
+        
 
 
 </body>
