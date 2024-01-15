@@ -12,7 +12,7 @@
     <h4 class="text-danger">Zucchini slice spanakopita</h4>
     <p class="card-text">Everyone's favourite savoury slice meets traditional Greek spinach pie in this easy vegetarian mash-up, which is perfect for lunch or dinner.</p>
     <div class="order">
-    <a href="" class="btn btn-warning">Order Now</a>
+    <a href="./404.php" class="btn btn-warning">Order Now</a>
     </div>
   </div>
 </div>
@@ -25,7 +25,7 @@
   <h4 class="text-danger">Creamy borlotti bean and pasta soup</h4>
     <p class="card-text">Serve this tasty tomato soup with crusty bread for the ultimate winter warmer.</p>
     <div class="order">
-    <a href="" class="btn btn-warning">Order Now</a>
+    <a href="./404.php" class="btn btn-warning">Order Now</a>
     </div>
   </div>
 </div>
@@ -37,7 +37,7 @@
   <h4 class="text-danger">Creamy borlotti bean and pasta soup</h4>
     <p class="card-text">Serve this tasty tomato soup with crusty bread for the ultimate winter warmer.</p>
     <div class="order">
-    <a href="" class="btn btn-warning">Order Now</a>
+    <a href="./404.php" class="btn btn-warning">Order Now</a>
     </div>
   </div>
 </div>
@@ -51,7 +51,7 @@
   <h4 class="text-danger">Creamy borlotti bean and pasta soup</h4>
     <p class="card-text">Serve this tasty tomato soup with crusty bread for the ultimate winter warmer.</p>
     <div class="order">
-    <a href="" class="btn btn-warning">Order Now</a>
+    <a href="./404.php" class="btn btn-warning">Order Now</a>
     </div>
 </div>
     </div>
@@ -69,7 +69,7 @@
     <h4 class="text-danger">Zucchini slice spanakopita</h4>
     <p class="card-text">Everyone's favourite savoury slice meets traditional Greek spinach pie in this easy vegetarian mash-up, which is perfect for lunch or dinner.</p>
     <div class="order">
-    <a href="" class="btn btn-warning">Order Now</a>
+    <a href="./404.php" class="btn btn-warning">Order Now</a>
     </div>
   </div>
 </div>
@@ -82,7 +82,7 @@
   <h4 class="text-danger">Creamy borlotti bean and pasta soup</h4>
     <p class="card-text">Serve this tasty tomato soup with crusty bread for the ultimate winter warmer.</p>
     <div class="order">
-    <a href="" class="btn btn-warning">Order Now</a>
+    <a href="./404.php" class="btn btn-warning">Order Now</a>
     </div>
   </div>
 </div>
@@ -94,7 +94,7 @@
   <h4 class="text-danger">Creamy borlotti bean and pasta soup</h4>
     <p class="card-text">Serve this tasty tomato soup with crusty bread for the ultimate winter warmer.</p>
     <div class="order">
-    <a href="" class="btn btn-warning">Order Now</a>
+    <a href="./404.php" class="btn btn-warning">Order Now</a>
     </div>
   </div>
 </div>
