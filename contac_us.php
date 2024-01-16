@@ -7,14 +7,12 @@
       <div class="mb-3">
         <label for="exampleFormControlInput1" class="form-label">Username</label>
         <input type="text" name="username" class="form-control" style="outline: none !important; box-shadow: none !important;" id="exampleFormControlInput1 usernames" placeholder="mvungi">
-        <h5 id="usercheck" style="color: red;"> **Username is missing </h5>
+        
       </div>
       <div class="mb-3">
         <label for="exampleFormControlInput1" class="form-label">Email address</label>
         <input type="email" name="email" class="form-control" id="exampleFormControlInput1 email" style="outline: none !important; box-shadow: none !important;" placeholder="name@example.com">
-        <small id="emailvalid" class="form-text text-muted invalid-feedback">
-          Your email must be a valid email
-        </small>
+        
       </div>
       <div class="mb-3">
         <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
