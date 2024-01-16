@@ -35,3 +35,6 @@ form-control:focus{
     outline: none !important;
     box-shadow: none !important;
 }
+.card-bg{
+    background-color: #1725546c !important;
+}
