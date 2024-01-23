@@ -1,0 +1,56 @@
+
+.row_back{
+    background-image: url(/image/slide-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.col-style{
+justify-content: center;
+width: 100px;
+
+}
+
+
+
+
+body{
+
+    width: 100%;
+    background-color:#ffff;
+ 
+   
+}
+.btn{
+    background: #09090b;
+    border: none;
+}
+.btn:hover{
+    background-color: #022c22;
+}
+
+#imageList img{
+    width: 200px;
+    height: 200px;
+}
+@media screen and (max-width: 700px) {
+    .col-style{
+        justify-content: space-between;
+    
+        
+        } 
+     
+        .row1 div.col{
+           position: relative;
+           width: 100%;
+           justify-content: center;
+           display: flex;
+        }
+       
+       
+        
+      
+}
+    
